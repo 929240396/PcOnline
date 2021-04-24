@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_marketnews01",
+    "children" : [ {
+      "name" : "Testinformation",
+      "children" : [ {
+        "name" : "test_individualstock",
+        "uid" : "af97e0ca17f5fdd",
+        "parentUid" : "c1fadc52e92e6daa223e8bf8b8f7c5c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619270940993,
+          "stop" : 1619271003181,
+          "duration" : 62188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_SHSZrefresh",
+        "uid" : "b695061b9da5318e",
+        "parentUid" : "c1fadc52e92e6daa223e8bf8b8f7c5c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619271677810,
+          "stop" : 1619271753192,
+          "duration" : 75382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1fadc52e92e6daa223e8bf8b8f7c5c7"
+    } ],
+    "uid" : "aab92c852392597e189b8dfc81a1536b"
+  } ]
+}

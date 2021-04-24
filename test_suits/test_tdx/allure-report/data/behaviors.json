@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "行情",
+    "children" : [ {
+      "name" : "查看个股集合竞价",
+      "children" : [ {
+        "name" : "test_individualstock",
+        "uid" : "af97e0ca17f5fdd",
+        "parentUid" : "009f5582aca4995555f87843839bd55e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619270940993,
+          "stop" : 1619271003181,
+          "duration" : 62188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "009f5582aca4995555f87843839bd55e"
+    }, {
+      "name" : "查看指数初始化",
+      "children" : [ {
+        "name" : "test_SHSZrefresh",
+        "uid" : "b695061b9da5318e",
+        "parentUid" : "e5b122fb06df6e1892501353340ce75a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619271677810,
+          "stop" : 1619271753192,
+          "duration" : 75382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5b122fb06df6e1892501353340ce75a"
+    } ],
+    "uid" : "0acd4a93a6f3490979d4b86dbccc76c2"
+  } ]
+}

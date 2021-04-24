@@ -1,0 +1,21 @@
+[ {
+  "uid" : "b695061b9da5318e",
+  "name" : "test_SHSZrefresh",
+  "time" : {
+    "start" : 1619271677810,
+    "stop" : 1619271753192,
+    "duration" : 75382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af97e0ca17f5fdd",
+  "name" : "test_individualstock",
+  "time" : {
+    "start" : 1619270940993,
+    "stop" : 1619271003181,
+    "duration" : 62188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

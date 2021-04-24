@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_marketnews01",
+    "children" : [ {
+      "name" : "test_individualstock",
+      "uid" : "af97e0ca17f5fdd",
+      "parentUid" : "6c1803ec46e9614dd11e8a8edda45f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619270940993,
+        "stop" : 1619271003181,
+        "duration" : 62188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_SHSZrefresh",
+      "uid" : "b695061b9da5318e",
+      "parentUid" : "6c1803ec46e9614dd11e8a8edda45f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619271677810,
+        "stop" : 1619271753192,
+        "duration" : 75382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6c1803ec46e9614dd11e8a8edda45f24"
+  } ]
+}

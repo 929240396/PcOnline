@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 24 21:41:17 CST 2021","Sat Apr 24 21:42:33 CST 2021","75382","","test_marketnews01","Testinformation","","","test_SHSZrefresh","
+        用例描述：查看上证指数、深证指数初始化
+        "
+"passed","Sat Apr 24 21:29:00 CST 2021","Sat Apr 24 21:30:03 CST 2021","62188","","test_marketnews01","Testinformation","","","test_individualstock","
+        用例描述：查看个股集合竞价
+        "

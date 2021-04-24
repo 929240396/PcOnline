@@ -1,0 +1,94 @@
+{
+  "uid" : "86840cb979055b82",
+  "name" : "test_SHSZrefresh",
+  "fullName" : "test_marketnews01.Testinformation#test_SHSZrefresh",
+  "historyId" : "b13664cbdb2bfdff956af8302c494990",
+  "time" : {
+    "start" : 1619270869087,
+    "stop" : 1619270940993,
+    "duration" : 71906
+  },
+  "description" : "\n        用例描述：查看上证指数、深证指数初始化\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：查看上证指数、深证指数初始化\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n        用例描述：查看上证指数、深证指数初始化\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击按钮：'退出'",
+      "time" : {
+        "start" : 1619270937181,
+        "stop" : 1619270940993,
+        "duration" : 3812
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "name",
+        "value" : "'退出'"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "行情"
+  }, {
+    "name" : "story",
+    "value" : "查看指数初始化"
+  }, {
+    "name" : "tag",
+    "value" : "下班"
+  }, {
+    "name" : "tag",
+    "value" : "StockIndex"
+  }, {
+    "name" : "suite",
+    "value" : "test_marketnews01"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testinformation"
+  }, {
+    "name" : "host",
+    "value" : "pc01-98062"
+  }, {
+    "name" : "thread",
+    "value" : "9908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_marketnews01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "StockIndex", "下班" ]
+  },
+  "source" : "86840cb979055b82.json",
+  "parameterValues" : [ ]
+}

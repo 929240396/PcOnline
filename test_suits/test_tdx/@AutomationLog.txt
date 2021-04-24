@@ -1,0 +1,3 @@
+2021-04-24 19:37:45.094 basedriverWindows.py[124] ClickButtonByName -> Find Control Timeout: {Name: '退出', ControlType: ButtonControl}
+2021-04-24 19:49:27.735 basedriverWindows.py[257] DoubleClickByName -> Find Control Timeout: {Name: '06', ControlType: TextControl}
+2021-04-24 23:26:54.122 basedriverWindows.py[204] ClickPaneByAutomationId -> Find Control Timeout: {AutomationId: '365', ControlType: PaneControl}
